@@ -37,11 +37,14 @@ pip install cookiecutter
 conda install cookiecutter
 ```
 
-```bash
-poetry install cookiecutter
-```
-
 Create a project based on the template:
 ```bash
-cookiecutter https://github.com/rgalindor/bioinfocutter --checkout main
+cookiecutter https://github.com/SolariaBiodata/cookiecutter4bioinfo --checkout main
 ```
+
+Enjoy!
+
+## Contact info
+
+- [Solaria Biodata](https://www.solariabiodata.com.mx)
+- [Send us an email!](mailto:admin-project@solariabiodta.com.mx)
